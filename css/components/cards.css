@@ -1,0 +1,35 @@
+.card-container h2 {
+  text-align: center;
+  color: black;
+}
+
+.card-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.card-list img {
+  width: 150px;
+  height: 150px;
+}
+.card-list h3 {
+  color: black;
+}
+
+.card-list p {
+  color: black;
+}
+
+.card-one {
+  border: 1px solid purple;
+  margin: 5px;
+}
+
+.card-two {
+  margin: 5px;
+}
+
+.card-three {
+  margin: 5px;
+}

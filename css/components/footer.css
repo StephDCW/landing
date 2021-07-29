@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  background-color: rebeccapurple;
+}
+
+.links i {
+  font-size: 30px;;
+}
+
+.links a {
+  color: lightgreen;
+  height: 50px;
+  width: 50px;
+}

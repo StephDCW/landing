@@ -1,0 +1,26 @@
+.banner {
+  background-size: cover;
+  height: 600px;
+  background-position: center;
+}
+
+.container {
+ color: white;
+ width: 900px;
+ margin: auto;
+ padding-top: 100px;
+ padding-left: 50px;
+}
+
+.container a {
+  padding: 10px;
+  background-color: purple;
+  border-radius: 8px;
+  color: white;
+}
+
+.container a:hover {
+  background-color: white;
+  color: purple;
+  transition: 0.2s;
+}
